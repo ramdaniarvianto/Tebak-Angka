@@ -16,7 +16,7 @@ while (lagi) {
         } else if (player < computer) {
             alert('🗣️Kamu menebak angka: ' + player + '\n\nAngka terlalu rendah, coba lagi!🤔');
         } else {
-            alert('🗣️Kamu menebak angka: ' + player + '\n\nYang kamu masukan bukang angka, coba lagi!🤬');
+            alert('🗣️Kamu menebak angka: ' + player + '\n\nYang kamu masukan bukan angka, coba lagi!🤬');
         }
 
         nyawa--;
